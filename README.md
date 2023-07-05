@@ -5,7 +5,7 @@ I am a self-taught software developer with a background in Electrical Engineerin
 - 🌱 I’m currently learning and growing in the field of software development.
 - 👯 I enjoy collaborating on various projects and contributing to the development community.
 - 💼 Seeking opportunities in the software development field to apply and expand my skills.
-- 📱 Tech enthusiast and gadget lover, always up to date with the latest technology trends.
+- 📱 Tech enthusiast and gadget lover, mostly up to date with the latest technology trends.
 
 Let's connect and create something amazing together! 🚀
 
