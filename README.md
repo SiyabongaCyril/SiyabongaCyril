@@ -1,12 +1,12 @@
-### Hi there! 👋 I'm Siyabonga Ntshingila
+### Greetings there, I'm Siyabonga Ntshingila.
 
-I am a self-taught software developer with a background in Electrical Engineering. Passionate about programming, I transitioned from my studies to pursue a career in software development. Experienced with C++ and currently focusing on Flutter with Dart for mobile development.
+I am a self-taught software developer with a background in Electrical Engineering. Passionate about solving real-world problems through software solutions, I transitioned from my studies to pursue a career in software development. Experienced with C++ and currently focusing on Flutter with Dart for mobile development.I aim to be a software developer that strives in solving a task at hand, no matter the technology I have to use as long as I have mastered the core principles. 
 
-- 🌱 I’m currently learning and growing in the field of software development.
-- 👯 I enjoy collaborating on various projects and am willing to contribute to the development community.
-- 💼 Seeking opportunities in the software development field to apply and expand my skills.
-- 📱 Tech enthusiast and gadget lover, mostly up to date with the latest technology trends.
+Here's what I'm currently up to:
+- Constantly learning and growing in the field of software development
+- Exposing myself to intuitive UI/UX designing for my applications
+- Enjoy collaborating on diverse projects and am willing to contribute to the development community.
+- Actively seeking opportunities in software development to apply and expand my skillset.
 
-Let's connect and create something amazing together! 🚀
-
+Feel free to reach out and connect with me.
 
