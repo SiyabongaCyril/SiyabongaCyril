@@ -10,5 +10,5 @@ Here's what I'm currently up to:
 - Enjoy collaborating on diverse projects and am willing to contribute to the development community.
 - Actively seeking opportunities in software development to apply and expand my skillset.
 
-Feel free to reach out and connect with me: [My Portfolio Profile](https://siyabongacyril.github.io/myPortfolio/)
+Feel free to reach out and connect with me: [My Portfolio Profile](https://siyabonga-ntshingila.vercel.app/)
 
