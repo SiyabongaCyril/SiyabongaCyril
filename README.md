@@ -5,7 +5,8 @@ I am a software developer with a background in Electrical Engineering. Passionat
 Here's what I'm currently up to:
 - Constantly learning and growing in the field of software development.
 - Exposing myself to intuitive **UI/UX** designing for my applications.
-- Exploring **Wordpress** through Ecommerce. 
+- Exploring **Wordpress** through Ecommerce.
+- Digital Developer intern, building components using Laravel with PHP. 
  <!--- - Working as a **Digital Developer Intern** @[Siyakha Consulting](https://siyakha.co.za/)  --->
 - Enjoy collaborating on diverse projects and am willing to contribute to the development community.
 - Actively seeking opportunities in software development to apply and expand my skillset.
