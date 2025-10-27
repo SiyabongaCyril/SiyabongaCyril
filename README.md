@@ -1,15 +1,30 @@
-### Greetings there, I'm Siyabonga Ntshingila.
+# 👋 Greetings there, I'm Siyabonga Ntshingila
 
-I am a software developer with a background in Electrical Engineering. Passionate about solving real-world problems through software solutions, I transitioned from my studies to pursue a career in software development. Experienced with C++ and currently focusing on Flutter with Dart for mobile development. I aim to be a software developer that strives in solving a task at hand, no matter the technology I have to use, as long as I have mastered the core principles. 
+I'm a **Software Developer** with a background in **Electrical (Information) Engineering**, passionate about solving real-world problems through software.  
+My journey started with engineering fundamentals and evolved into developing functional, user-focused software solutions — from mobile applications to full-stack web systems.
 
-Here's what I'm currently up to:
-- Constantly learning and growing in the field of software development.
-- Exposing myself to intuitive **UI/UX** designing for my applications.
-- Exploring **Wordpress** through Ecommerce.
-- Digital Developer intern, building components using Laravel with PHP. 
- <!--- - Working as a **Digital Developer Intern** @[Siyakha Consulting](https://siyakha.co.za/)  --->
-- Enjoy collaborating on diverse projects and am willing to contribute to the development community.
-- Actively seeking opportunities in software development to apply and expand my skillset.
+Currently, I work as a **Junior Software Developer at Siyakha Consulting**, building and maintaining features using **Laravel (PHP)** and modern web technologies.  
+I'm also exploring **Flutter (Dart)** for mobile development, with a growing interest in crafting clean and intuitive user experiences.
 
-Feel free to reach out and connect with me: [My Portfolio Profile](https://siyabonga-ntshingila.vercel.app/)
+---
+
+### 🧰 Tech Stack & Tools
+**Languages:** PHP · Dart · C++ · SQL · HTML · CSS  
+**Frameworks:** Laravel · Flutter  
+**Tools:** Git · GitHub · Figma · WordPress · Jira · Confluence · Trello  
+**Databases:** MySQL · Firebase  
+
+---
+
+### 🤝 Let's Connect
+I'm always open to learning, collaboration, and exciting opportunities in software development.
+
+🌐 [Portfolio Website](https://siyabonga-ntshingila.vercel.app)  
+💼 [LinkedIn](https://www.linkedin.com/in/siya-ntshingila)  
+💻 [GitHub](https://github.com/SiyabongaCyril)  
+✉️ [Email](mailto:nns.cyril@gmail.com)
+
+---
+
+> “Code is not just about solving problems — it's about creating solutions that make people’s lives easier and better.”
 
