@@ -25,7 +25,7 @@ Building reliable systems & polished UX — from concept to production.
 
 ## 🌱 Currently Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,materialui&theme=light" /><img src="https://inertiajs.com/images/inertia-logo.svg" width="40" height= />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,materialui&theme=light" />&nbsp;<img src="https://inertiajs.com/images/inertia-logo.svg" width="80" height="80" alt="Inertia.js logo" />&nbsp;<img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqmo966bubcqxqmxjpqoq.png" width="80" height="80" alt="Shadcn UI logo" />
 </p>
 <p align="center">
   Laravel 12 · React 19 · Shadcn/UI · Inertia 2
